@@ -4,7 +4,8 @@ Given two integer arrays of same size, “arr[]” and “index[]”, reorder el
 It is not allowed to given array arr’s length.
 */
 
-class Ques1
+class reorderArray
+
 {
 public static void reorder(int arr1[],int index1[])
 {
